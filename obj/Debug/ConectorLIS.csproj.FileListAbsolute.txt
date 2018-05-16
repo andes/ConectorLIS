@@ -1,0 +1,10 @@
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\bin\Debug\ConectorLIS.exe.config
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\bin\Debug\ConectorLIS.exe
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\bin\Debug\ConectorLIS.pdb
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\obj\Debug\WindowsFormsApplication1.frmPrincipal.resources
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\obj\Debug\ConectorLIS.Properties.Resources.resources
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\obj\Debug\ConectorLIS.csproj.GenerateResource.Cache
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\obj\Debug\ConectorLIS.csproj.CoreCompileInputs.cache
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\obj\Debug\ConectorLIS.exe
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\obj\Debug\ConectorLIS.pdb
+C:\Users\pablo12345\Desktop\ConectorLIS_CodigoBarras - copia\obj\Debug\ConectorLIS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConectorLIS", "ConectorLIS.csproj", "{CC075736-6ADE-4556-A8E5-9A2023FCCD3A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupConectorLIS", "SetupConectorLIS\SetupConectorLIS.vdproj", "{FCBB4326-84FF-484A-A416-52025473EC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC075736-6ADE-4556-A8E5-9A2023FCCD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC075736-6ADE-4556-A8E5-9A2023FCCD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC075736-6ADE-4556-A8E5-9A2023FCCD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC075736-6ADE-4556-A8E5-9A2023FCCD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBB4326-84FF-484A-A416-52025473EC2D}.Debug|Any CPU.ActiveCfg = Debug
+		{FCBB4326-84FF-484A-A416-52025473EC2D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C45FF04-8359-43A1-B46E-3FA3E30A617B}
+	EndGlobalSection
+EndGlobal

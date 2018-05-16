@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ConectorLIS">
+</Property><Property Name="Solution File" Value="D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\ConectorLIS.sln">
+</Property><Property Name="User Options File" Value="D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\ConectorLIS.suo">
+</Property><Property Name="Date" Value="viernes, 31 de agosto de 2012">
+</Property><Property Name="Time" Value="15:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ConectorLIS.sln" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\ConectorLIS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ConectorLIS.suo" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\ConectorLIS.suo">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="ConectorLIS.csproj" Description="Project file successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\ConectorLIS.csproj">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="ConectorLIS.csproj.user" Description="Project user file successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\ConectorLIS.csproj.user">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="frmPrincipal.cs" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\frmPrincipal.cs">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="frmPrincipal.designer.cs" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\frmPrincipal.designer.cs">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="Program.cs" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="App.config" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="Properties\Settings.settings" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="frmPrincipal.resx" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\frmPrincipal.resx">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="Properties\Resources.resx" Description="File successfully backed up as D:\proyectos (carolina)\Laboratorio\ConectorLIS_CodigoBarras\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="ConectorLIS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConectorLIS" Source="ConectorLIS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ConectorLIS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ConectorLIS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConectorLIS" Source="ConectorLIS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
